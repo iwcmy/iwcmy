@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Soy: <a href="https://linkedin.com/in/kilian-alfaro" target="_blank">Kilian</a> 
+  Soy <a href="https://linkedin.com/in/kilian-alfaro" target="_blank">Kilian</a> 
 </p>
 
 <p align="center">
