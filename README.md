@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+  💻 Backend Developer 
+</p>
 
-<!--
-**iwcmy/iwcmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNmNHIxZGJxNWhxZ3JvYTkzMGVrcnhoMmg1bGhjY2plaXUxcWFlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="120" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/kilian-alfaro" target="_blank">LinkedIn</a> • 
+  <a href="mailto:kilianalfaro@gmail.com">kilianalfaro@gmail.com</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 📊 Top languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwcmy&layout=compact&theme=tokyonight" />
+</p> 
