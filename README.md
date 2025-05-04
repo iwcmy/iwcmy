@@ -12,7 +12,7 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwcmy&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwcmy&theme=tokyonight&hide=html,css" />
 </p>
 
   <a href="#"><img src="https://img.shields.io/badge/-Python-%234B8BBE?style=flat-square&logo=python&logoColor=white" /></a>&nbsp;
